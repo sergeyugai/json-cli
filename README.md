@@ -1,5 +1,9 @@
 # JSON CLI multitool
 
+Note: This is NOT original json-cli. Original one is at swaggest/json-cli.
+
+This is just a fork with bumped dependencies.
+
 <img align="right" width="100px" height="100px" alt="Swiss Knife" src="./knife.svg">
 
 A CLI app to find unordered diff between two `JSON` documents (based on [`swaggest/json-diff`](https://github.com/swaggest/json-diff)), generate JSON Schema and Go/PHP code, pretty print, minify, yaml convert, etc....
